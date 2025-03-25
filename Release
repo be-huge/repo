@@ -1,0 +1,8 @@
+Origin: be-huge's Repo
+Label: be-huge's Repo
+Suite: stable
+Version: 1.1
+Codename: be-huge
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: i am be-huge, dedicated to free tweak.
