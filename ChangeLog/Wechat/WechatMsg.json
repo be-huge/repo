@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.0.1",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+            "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击我购买分屏",
+          "action": "https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+          "class": "DepictionButtonView"
+        }
+      ]
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "markdown": "**0.0.2**\n\n---\n\n1. 修复点击电脑登陆通知，会打开自己对话框问题。\n2. 修复网络不畅情况下，打开对话框失败情况。",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "**0.0.1**\n\n---\n\n初始化，支持点击通知跳转到对应窗口。支持群消息、支付信息、好友聊天、公众号消息等。",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}
