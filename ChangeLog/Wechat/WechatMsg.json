@@ -16,7 +16,7 @@
           "class": "DepictionSpacerView"
         },
         {
-            "class": "DepictionSeparatorView"
+          "class": "DepictionSeparatorView"
         },
         {
           "text": "点击我购买分屏",
@@ -29,16 +29,28 @@
       "tabname": "更新日志",
       "views": [
         {
-          "markdown": "**0.0.2**\n\n---\n\n1. 修复点击电脑登陆通知，会打开自己对话框问题。\n2. 修复网络不畅情况下，打开对话框失败情况。",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionSubheaderView",
+          "title": "0.0.2",
+          "useBoldText": true
         },
         {
-          "markdown": "**0.0.1**\n\n---\n\n初始化，支持点击通知跳转到对应窗口。支持群消息、支付信息、好友聊天、公众号消息等。",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "1. 修复点击电脑登陆通知，会打开自己对话框问题。\n2. 修复网络不畅情况下，打开对话框失败情况。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.0.1",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "初始化，支持点击通知跳转到对应窗口。支持群消息、支付信息、好友聊天、公众号消息等。"
+        },
+        {
+          "class": "DepictionSeparatorView"
         }
       ]
     }
