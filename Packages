@@ -31,3 +31,20 @@ Author: be-huge
 Name: WechatPushMsgPage-rootless
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.wechat-push-msg-page_0.0.3_iphoneos-arm64.deb
+Size: 23172
+MD5sum: 505059a1579f1d47007c1d7ea8511f47
+SHA1: f00880fbfbebc9e4514199787004ac955c295c0b
+SHA256: 57c61e400766da00cb730d3f1408dc2b1530515a0ec7ec902e92c3e8b298d637
+Section: Tweaks
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Name: WechatPushMsgPage-rootless
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
