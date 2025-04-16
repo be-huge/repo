@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.0.1",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "点击我购买分屏",
+          "action": "https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+          "class": "DepictionButtonView"
+        }
+      ]
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.0.1",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        }
+      ]
+    }
+  ]
+}
