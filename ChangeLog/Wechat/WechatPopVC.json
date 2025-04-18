@@ -30,6 +30,18 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "0.0.3",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修复部分页面屏幕边缘手势与全局手势同时触发问题"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "0.0.2",
           "useBoldText": true
         },
