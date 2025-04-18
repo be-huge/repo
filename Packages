@@ -14,6 +14,22 @@ Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上�
 Author: be-huge
 Name: WeChatPopVC-rootless
 
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.wechat-pop-vc_0.0.2_iphoneos-arm64.deb
+Size: 21064
+MD5sum: ca6b2a6041b9b15ed0811c591df3e5d6
+SHA1: e446c9e604dc358316a521b77fd9b95aa1235a91
+SHA256: bdedb3033371d318fd0ee20f933cc0222dfb12df514a3ccd3e056a2c6a2c1bf7
+Section: Tweaks
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Name: WeChatPopVC-rootless
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64

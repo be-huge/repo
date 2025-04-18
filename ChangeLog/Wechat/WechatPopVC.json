@@ -30,6 +30,18 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "0.0.2",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "禁用手势同时识别，禁用图片预览页面右滑手势"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "0.0.1",
           "useBoldText": true
         },
