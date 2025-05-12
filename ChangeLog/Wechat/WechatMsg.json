@@ -30,6 +30,15 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "0.0.4",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "防止已经打开对方聊天窗口，通过横幅打开时依旧重新关闭再打开问题"
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "0.0.3",
           "useBoldText": true
         },
