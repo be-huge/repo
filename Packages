@@ -1,3 +1,19 @@
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 101982
+MD5sum: 5467677a41b055734e32454ac916eea0
+SHA1: 3ab0d160fe0198227fd2729170b50b75fa55fd4b
+SHA256: 79d1b687735c25ed8c055aea12dc6bbb360e01a515ae67fdb2a284d7d2ee4c27
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Name: TieGesture
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
