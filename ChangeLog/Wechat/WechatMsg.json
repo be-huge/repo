@@ -30,6 +30,15 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
+          "title": "0.0.5",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修复部分版本闪退问题"
+        },
+        {
+          "class": "DepictionSubheaderView",
           "title": "0.0.4",
           "useBoldText": true
         },
