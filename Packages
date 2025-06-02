@@ -46,6 +46,22 @@ Description: 手势插件，一切从简即可。
 Author: be-huge
 Name: TieGesture-rootless(收费版)
 
+Package: com.be-huge.tie-gesture-advance
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1192
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.tie-gesture-advance_1.0.3_iphoneos-arm64.deb
+Size: 216852
+MD5sum: 88d406f79ef9d47fbd3ceb2aa7cef7e2
+SHA1: fbba52a4a55afecb596f45146e6f39d7f6a79d9c
+SHA256: 0539681f28a77812743917a6c4e0a3f48922bc7458254fd99cec886d83b3b4da
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Name: TieGesture-rootless(收费版)
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
