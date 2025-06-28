@@ -1,3 +1,19 @@
+Package: com.be-huge.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64.deb
+Size: 58944
+MD5sum: 69bf69386e0b06fd50d9405c1eb66c46
+SHA1: 53e871990f4aae7c241595f68200847cd23ad861
+SHA256: 4f56212139474641ce4f8c763815ab0ab672260838230ac501f4f1b890bc0c69
+Section: Tweaks
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Name: CustomWeChatNotificationSound
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
