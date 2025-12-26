@@ -414,6 +414,22 @@ Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上�
 Author: be-huge
 Name: WeChatPopVC-rootless
 
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.5-end
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.wechat-pop-vc_0.0.5-end_iphoneos-arm64.deb
+Size: 21794
+MD5sum: ecd0604c7f55ef0327b62ae5d4c96927
+SHA1: cbe6273438eb27d201ff477464f0c73cfa05d4fb
+SHA256: 17eaaaf66363a67eaa245b0648ce2b002e1762cb29052bd91b2a25435b35bc2a
+Section: Tweaks
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。（代码已开源，后续功能失效可以自行打补丁）
+Author: be-huge
+Name: WeChatPopVC-rootless
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -494,6 +510,23 @@ SHA1: 75bb82754b5fdec3de4949ee2fb870e02996d4d1
 SHA256: fade8549cfb1b1d08a523004624f69a5f75379a1e4f5c6f50263c86a0ad43924
 Section: Tweaks
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Name: WechatPushMsgPage-rootless
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.5-end
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.wechat-push-msg-page_0.0.5-end_iphoneos-arm64.deb
+Size: 25780
+MD5sum: 45fe440aef712f1f74de7c267d44d5ce
+SHA1: 90b70e1d590181635e0b0186c9daf4d278822090
+SHA256: d97121445684d4a2448d3c071a5f49f7a14d95e0b7060ac30aacee70ba178ad5
+Section: Tweaks
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。（代码已开源，后续功能失效可以自行打补丁）
 Author: be-huge
 Name: WechatPushMsgPage-rootless
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
