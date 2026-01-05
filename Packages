@@ -126,6 +126,22 @@ Description: 弹幕通知
 Author: be-huge
 Name: bullet
 
+Package: com.be-huge.bullet
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.bullet_1.0.7_iphoneos-arm64.deb
+Size: 211126
+MD5sum: a9d7fbe01e7cba3dd21357987d60fc44
+SHA1: b7162355a5804bce5d87d39a8ead32c43f7b3e6a
+SHA256: 3ff3fdf097e11e087b183ff2151db2f7128b3547c26514ab96bc799afc00b47a
+Section: Tweaks
+Description: 弹幕通知
+Author: be-huge
+Name: bullet
+
 Package: com.be-huge.custom-notification-sound
 Version: 1.0.0
 Architecture: iphoneos-arm64
