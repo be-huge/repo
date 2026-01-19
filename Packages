@@ -366,6 +366,22 @@ Description: 手势插件，一切从简即可。
 Author: be-huge
 Name: TieGesture-rootless(收费版)
 
+Package: com.be-huge.view-controller-animated
+Version: 0.0.1-end
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.be-huge.view-controller-animated_0.0.1-end_iphoneos-arm64.deb
+Size: 36810
+MD5sum: 219d7ff5ab1206e60a6e5682f0bbfe24
+SHA1: 44b803654fd5e915a3ca07fae6d616a361f5dc99
+SHA256: e27cc7c60ef0505053452c87547034fa652786705d1c94aab141aa6baee96b4b
+Section: Tweaks
+Description: VC关闭动画，代码已开源，自行优化。
+Author: be-huge
+Name: ViewControllerAnimated-dismiss
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
