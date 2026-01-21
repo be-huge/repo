@@ -158,6 +158,22 @@ Description: 自定义微信联系人通知声音（似乎对mp3文件不太友�
 Author: be-huge
 Name: CustomWeChatNotificationSound
 
+Package: com.be-huge.insulation
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.insulation_0.0.1_iphoneos-arm64.deb
+Size: 22070
+MD5sum: e7e0deec68a3d78c1d167477dd3fa290
+SHA1: 9cf8d949ad457f90510563597bcc28c2dac1283f
+SHA256: 1b0efb3ce304c4298ec200babee6ca16889433addd37aabe077a321a2e1e530a
+Section: Tweaks
+Description: 解除温控，不一定所有机型生效，代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Name: insulation
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
