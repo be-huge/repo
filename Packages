@@ -190,6 +190,22 @@ Description: 解除温控，一切从简即可。代码已开源：https://githu
 Author: be-huge
 Name: insulation
 
+Package: com.be-huge.insulation
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.insulation_0.0.3_iphoneos-arm64.deb
+Size: 57730
+MD5sum: ca872c5f861e3a28c99e90ea1102de57
+SHA1: ed9f9e91a93f9a08c877eb4c6088abc22747fb48
+SHA256: 42a14d1cee15a235afe482a42dcfce7d808b9c703354115bf564300493d5eb75
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Name: insulation
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
