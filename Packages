@@ -197,14 +197,30 @@ Maintainer: be-huge
 Installed-Size: 484
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/com.be-huge.insulation_0.0.3_iphoneos-arm64.deb
-Size: 57730
-MD5sum: ca872c5f861e3a28c99e90ea1102de57
-SHA1: ed9f9e91a93f9a08c877eb4c6088abc22747fb48
-SHA256: 42a14d1cee15a235afe482a42dcfce7d808b9c703354115bf564300493d5eb75
+Size: 57810
+MD5sum: 73404d4650e3d1e099210c5216dc6717
+SHA1: 9cc54cb851309c4e448da948e0f626967d50da37
+SHA256: 48c543616e3eca34a3d90fa682969efaa9e1f39c004533f41d22c6e010033114
 Section: Tweaks
 Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
 Author: be-huge
-Name: insulation
+Name: insulation(解除温控)-rootless
+
+Package: com.be-huge.insulation
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.insulation_0.0.3_iphoneos-arm64e.deb
+Size: 55684
+MD5sum: ab1f86df8034120327cc605912c7b035
+SHA1: a71a39700ffc10e5ce7a85e8862d92410934dc38
+SHA256: 9517499c4907c91362c53301b78b20dcac56b2d6319112502e907910698ff463
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Name: insulation(解除温控)-roothide
 
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
