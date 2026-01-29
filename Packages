@@ -149,10 +149,10 @@ Maintainer: be-huge
 Installed-Size: 1096
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/com.be-huge.bullet_1.0.7_iphoneos-arm64e.deb
-Size: 209514
-MD5sum: 3137066a6144235b5e65dc19d037f836
-SHA1: bfa1a7f003513099029d85995fe6eee18619d650
-SHA256: 71d34d19db2dc14e7b3760b8d9d6ca82358a9ab91903d781d22673583708218f
+Size: 209614
+MD5sum: 3f34a4a89d8e86d8cfa896423acd2628
+SHA1: 228bb8158d798491fe57a2a4e7aadf58f5369a5c
+SHA256: 5fc264615a696b2d03ba8a9e167fd37739f42aae414e50cf90dc82ae690a2801
 Section: Tweaks
 Description: 弹幕通知
 Author: be-huge
@@ -437,10 +437,10 @@ Maintainer: be-huge
 Installed-Size: 1256
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/com.be-huge.tie-gesture-advance_1.1.1_iphoneos-arm64e.deb
-Size: 244170
-MD5sum: 813474ca32a8d3b7e6161ec788b10ccc
-SHA1: 81930016fd6915b06c6652d0f65e047d6ab14443
-SHA256: 92b11469058408411a4002273e982e224ed027fbf90fb3eb76e143ff3eaefebc
+Size: 244360
+MD5sum: 9e8dc988608b8add85ccc716678096f9
+SHA1: a4a398efca6e19d7f49f3a9c46af13d7db0d3814
+SHA256: c1cf550ae0f4682ddae433af6b037dce6b75663d38a46730d850a14dfeb01128
 Section: Tweaks
 Description: 手势插件，一切从简即可。
 Author: be-huge
