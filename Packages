@@ -432,19 +432,35 @@ Name: TieGesture-rootless(收费版)
 
 Package: com.be-huge.tie-gesture-advance
 Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.tie-gesture-advance_1.1.1_iphoneos-arm64e.deb
+Size: 244170
+MD5sum: 813474ca32a8d3b7e6161ec788b10ccc
+SHA1: 81930016fd6915b06c6652d0f65e047d6ab14443
+SHA256: 92b11469058408411a4002273e982e224ed027fbf90fb3eb76e143ff3eaefebc
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Name: TieGesture-rootless(手势-收费版)-roothide
+
+Package: com.be-huge.tie-gesture-advance
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 1256
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/com.be-huge.tie-gesture-advance_1.1.1_iphoneos-arm64.deb
-Size: 245840
-MD5sum: aa4a54b06f80df4e7d0214f365ed320f
-SHA1: 785989380766d650d9269eedfe5e138905a15499
-SHA256: b2216eb41e0926fe454fb7a130c4890f481d5718e4bff9c5768919d399609950
+Size: 245732
+MD5sum: 40c5d5a0effed93393416dfd02380f12
+SHA1: 916003a2b05d26bd570c77bb30ffd542aeed8e2a
+SHA256: 99b2150a56240aafb5b86d4f4034066c59484eb0cae0e72b8cb4436d667ece62
 Section: Tweaks
 Description: 手势插件，一切从简即可。
 Author: be-huge
-Name: TieGesture-rootless(收费版)
+Name: TieGesture-rootless(手势-收费版)-rootless
 
 Package: com.be-huge.view-controller-animated
 Version: 0.0.1-end
