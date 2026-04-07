@@ -675,3 +675,19 @@ Author: be-huge
 Name: WechatPushMsgPage-rootless
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.roothide.lockdown
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.roothide.lockdown_1.0.3_iphoneos-arm64.deb
+Size: 5280
+MD5sum: 6fd98f67683865b8dfd5d52cce7fc8a2
+SHA1: 1652d51b533b43202b2ea7ddbf72aaa771cda59e
+SHA256: 9ef43533270dce95f3cdf444608182915610fa9bbb895f942a7a428f13ae0b0f
+Section: Tweaks
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Enabled by default!(编译自roothide作者的lockdown，以支持rootless)
+Author: roothide
+Name: lockdown(rootless)
+
