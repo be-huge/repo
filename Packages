@@ -478,6 +478,38 @@ Description: 手势插件，一切从简即可。
 Author: be-huge
 Name: TieGesture-rootless(手势-收费版)-rootless
 
+Package: com.be-huge.tie-gesture-advance
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.tie-gesture-advance_1.1.2_iphoneos-arm64.deb
+Size: 245994
+MD5sum: 63ba65b63ce911478941f1fac5e37843
+SHA1: 2daf9a19e26f2c44815c6e2fe6ca1a5885c38413
+SHA256: e209de6d73e193caf7ffb937d41f706dedf37c381e906b9295a51e63f1986834
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Name: TieGesture-rootless(收费版)
+
+Package: com.be-huge.tie-gesture-advance
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.tie-gesture-advance_1.1.2_iphoneos-arm64e.deb
+Size: 244244
+MD5sum: 35ab447eee7ad861d1dfe952abe5d81e
+SHA1: a5f943439a8b7c904bb2d94ab0f4f51a68f0d9cf
+SHA256: f3717e4b3b8772446177ec31de106832b8159f7e1ed1266aee19e923f520e838
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Name: TieGesture-rootless(收费版)
+
 Package: com.be-huge.view-controller-animated
 Version: 0.0.1-end
 Architecture: iphoneos-arm64
