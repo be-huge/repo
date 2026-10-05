@@ -158,6 +158,38 @@ Description: 弹幕通知
 Author: be-huge
 Name: bullet(弹幕通知)-roothide
 
+Package: com.be-huge.cocos-javascript-dumper
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.cocos-javascript-dumper_0.0.1_iphoneos-arm64e.deb
+Size: 15452
+MD5sum: 9147ae2e424ea21e4fb6324fd8954f34
+SHA1: 5a89beac378910ba873a15204379397c7e26d127
+SHA256: 2f3697f55851a3b93a56dd052aa4658041edf6418efeab8931456e054a766742
+Section: Tweaks
+Description: cocos javascript dumpe 工具，仅适用于纯cocos程序（webview、小程序、非越狱不受用）。产出路径：Document/CocosJavascriptDumpe/**
+Author: be-huge
+Name: CocosJSDumper
+
+Package: com.be-huge.cocos-javascript-dumper
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.cocos-javascript-dumper_0.0.1_iphoneos-arm64.deb
+Size: 15510
+MD5sum: 386d3487427b5a093c1a10df0e9aa4c6
+SHA1: b1e08be4759fe4ffce65b9ca56957c1fc6631d87
+SHA256: a4488246d469549bc74de83a08c1245eedb0881b8e416bbcfd22fe149dd9f2fd
+Section: Tweaks
+Description: cocos javascript dumpe 工具，仅适用于纯cocos程序（webview、小程序、非越狱不受用）。产出路径：Document/CocosJavascriptDumpe/**
+Author: be-huge
+Name: CocosJSDumper
+
 Package: com.be-huge.custom-notification-sound
 Version: 1.0.0
 Architecture: iphoneos-arm64
